@@ -1,0 +1,27 @@
+h2{
+  display: flex;
+  justify-content: center;
+}
+
+.goldscore{
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+.goldpic{
+  width: 100px;
+  height: 100px;
+}
+
+.crip{
+  height: 300px;
+  width: 300px;
+}
+
+
+.img {
+  float: right;
+  margin-top: -450px;
+}
